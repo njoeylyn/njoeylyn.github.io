@@ -21,4 +21,4 @@ My GitHub page is https://github.com/njoeylyn
 
     Lab 12 was a favorite lab of mine because I really enjoyed creating the animated gradient and seeing how the red, green, and blue channels combined into a smooth animation. It was satisfying to use sine calculations and lookup tables to produce the desired output while testing and debugging the program. Although working with the command line arguments and GraphicsMagick had its challenges, the learning experience was rewarding in the end.
 
-    ![Me During the course of this class](images/lol/png)
+![Me During the course of this class](images/lol.png)
